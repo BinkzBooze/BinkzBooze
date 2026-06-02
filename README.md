@@ -20,18 +20,12 @@
   </p>
 </div>
 
-<br>
-
 <!-- ABOUT ME -->
 ## 👨‍💻 About Me
 
 I am a computer engineering undergrad at PUP Manila. As an aspiring backend engineer, I am interested in learning more about low-level programming concepts & backend engineering concepts from reputable sources like Nand2Tetris & Boot.dev. My most recent role was as an IT Support Engineer Intern where I developed Python, Microsoft VBA, & PowerShell scripts to automate tasks and improve workflows. 
 
 My other interests that I am planning to briefly explore (but not truly master) are machine learning, DevOps, and cybersecurity. I have also dabbled a little bit in simple game development by utilizing libraries and languages like Pygame & Scratch, as I like to utilize complex math and physics in programming.
-
-* 🎓 **Currently Studying:** Arduino Programming
-
-<br>
 
 <!-- TECH STACK -->
 ## 🛠️ Tech Stack
@@ -95,8 +89,6 @@ My other interests that I am planning to briefly explore (but not truly master) 
   <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white" />
   <img src="https://img.shields.io/badge/Antigravity-8A2BE2?style=for-the-badge&logoColor=white" />
 </p>
-
-<br>
 
 <!-- HOBBIES & PERSONALITY -->
 ## 👾 Beyond the Terminal
