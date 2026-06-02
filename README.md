@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Adolf</h1>
 <h3 align="center">a Computer Engineering Student & Aspiring Backend Engineer in the Philippines</h3>
 
-- 🔭 I’m currently working on [a personal project that calculates GWA based on PUP Student Handbook](pup-gwa-calculator)
+- 🔭 I’m currently working on **a personal project that calculates GWA based on PUP Student Handbook**
 
 - 🌱 I’m currently learning **Arduino Programming**
 
 - 🤝 I’m looking for help with **Logistics Ledger (We need a logistics company as partner for our thesis)**
-
-- 📫 How to reach me **adolftiangcox24@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/11oCyt0TI5qmMC2rYPArZ67Cl0hM3LxqK/view?usp=sharing](https://drive.google.com/file/d/11oCyt0TI5qmMC2rYPArZ67Cl0hM3LxqK/view?usp=sharing)
 
