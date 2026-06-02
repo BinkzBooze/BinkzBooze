@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Adolf</h1>
 <h3 align="center">a Computer Engineering Student & Aspiring Backend Engineer in the Philippines</h3>
 
-- 🔭 I’m currently working on [a personal project that calculates GWA based on PUP Student Handbook](binkz.app)
+- 🔭 I’m currently working on [a personal project that calculates GWA based on PUP Student Handbook](pup-gwa-calculator)
 
 - 🌱 I’m currently learning **Arduino Programming**
 
